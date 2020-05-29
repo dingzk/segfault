@@ -33,7 +33,7 @@ main at ??:?
 
 ```
 
-### dmesg + objdump /nm/ldd
+### dmesg + objdump | nm | ldd
 
 ```c++
 [root@08829897f7f3 core_dump]# g++ sigfault_nohandler.c
